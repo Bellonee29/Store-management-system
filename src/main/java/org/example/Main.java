@@ -1,8 +1,8 @@
 package org.example;
 
-import org.example.Services.CashierServices;
-import org.example.Services.CustomerServiceImp;
-import org.example.Services.ManagerServiceImp;
+import org.example.Implementation.CashierServices;
+import org.example.Implementation.CustomerServiceImp;
+import org.example.Implementation.ManagerServiceImp;
 import org.example.model.*;
 
 import java.util.ArrayList;

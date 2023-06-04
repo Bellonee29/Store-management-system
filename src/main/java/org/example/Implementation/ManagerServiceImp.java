@@ -1,5 +1,6 @@
-package org.example.Services;
+package org.example.Implementation;
 
+import org.example.Services.ManagerService;
 import org.example.model.Cashier;
 import org.example.model.Manager;
 
